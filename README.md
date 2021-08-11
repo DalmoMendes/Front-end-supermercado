@@ -16,7 +16,7 @@ Tela inicial de um site para supermercado usando HTML e CSS.
   <p>1. Abra Git Bash:<br>
   Entre do diretório de projetos (www ou htdocs)</p>
   
-  <p>2. Criar uma diretório em seu servidor web <br>
+  <p>2. Criar uma diretório no servidor web <br>
   Ex: mkdir novo-diretorio </p>
   
   <p>3. Abrir o diretório:<br>
